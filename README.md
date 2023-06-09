@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shahariyar1
-- 👀 I’m interested in cse
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning html
 - 💞️ I’m looking to collaborate on liis
 - 📫 How to reach me no
